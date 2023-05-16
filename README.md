@@ -7,10 +7,12 @@
 
 <h3>🛠 Tech Stack</h3>
 
-- 💻 &nbsp; Python | Java | C++ | PHP
-- 🌐 &nbsp; Android | HTML | CSS | JavaScript | Bootstrap | Vue
+- 💻 &nbsp; Python | Java | C/C++ | PHP | Bash
+- 🌐 &nbsp; Android | HTML | CSS | JavaScript | Bootstrap | Vue | JQuery
 - 🛢 &nbsp; MySQL
-- 🔧 &nbsp; Android Studio | PyCharm | Visual Studio code | Git
+- 🔧 &nbsp; Android Studio | Visual Studio code | Git | Vim | Make
+- 🧰 &nbsp; Verilog | Chisel | Quartus | Vivado
+- 📺  &nbsp; R | Numpy | Pandas | Matplotlib | ggplot2
 
 <br>
 
